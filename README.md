@@ -1,3 +1,5 @@
+### Para más información leer la [Wiki](https://github.com/sergiJimenez/falconGPS/wiki).
+---
 # ¿Cómo ejecutarlo?
 
 ## Antes de empezar…
